@@ -1,0 +1,72 @@
+
+.container{
+	background: rgb(248, 141, 105);
+	color: white;
+	text-align: right;
+	padding: 3%;
+	font-size: 150%;
+}
+
+
+.primeraimagen{
+	background-image: url("../images/uno.jpg");
+	background-size: cover;
+	height: auto;
+	padding-top: 37em;
+}
+
+.container2{
+	background: rgb(171, 225, 137);
+	border-top: 1em solid rgb(241, 144, 101);
+	border-bottom: 1em solid rgb(241, 144, 101);
+	padding: 8em;
+
+}
+
+#fondorosa{
+	background: rgb(248, 141, 105);
+	height: 20em;
+	width: 30em;
+	color: white;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+.segundaimagen{
+	background-image: url("../images/dos.jpg");
+	background-size: cover;
+	height: auto;
+	padding-top: 41em;
+	border-bottom: 1em solid rgb(241, 144, 101);
+}
+
+.container3{
+	background: rgb(171, 225, 137);
+	color: white;
+	text-align: center;
+	padding: 10%;
+	border-bottom: 1em solid rgb(241, 144, 101);
+}
+
+.container3 img{
+	border: 0.5em solid white;
+	margin-left: 3%;
+
+}
+
+.terceraimagen{
+	background-image: url("../images/tres.jpg");
+	background-size: cover;
+	height: auto;
+	padding-top: 41em;
+	/*border-bottom: 1em solid rgb(241, 144, 101);*/
+}
+
+.piepagina{
+	background: rgb(248, 141, 105);
+	padding: 1%;
+	color: white;
+	font-weight: bold;
+	text-align: right;
+}
